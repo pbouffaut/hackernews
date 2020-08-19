@@ -1,0 +1,21 @@
+.Input-wrapper {
+  display: flex;
+  align-items: center;
+  margin-bottom: 2rem;
+  position: relative;
+  max-width: 90%;
+  width: 500px;
+}
+
+.Input__icon {
+  position: absolute;
+  left: 10px;
+  font-size: 0.85rem;
+}
+
+.Input {
+  font-size: 1rem;
+  padding: 6px 12px;
+  padding-left: 2rem;
+  flex: 1;
+}
